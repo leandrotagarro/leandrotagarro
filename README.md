@@ -1,9 +1,9 @@
 
-   <h3>Olá Eu me chamo Leandro, sou apaixonado por tecnologia e desenvolvimento.👨‍💻</h3>
+   <h3>Olá Eu me chamo Leandro, sou apaixonado por tecnologia e desenvolvimento. 👨‍💻</h3>
    <h3>Hello I'm Leandro, I love technology and development 👨‍💻</h3>
-   <h3>Seja bem vindo ao meu github 👋 </h3>
+   <h3>Seja bem vindo ao meu github 👋</h3>
    <h3>Welcome to my github 👋 </h3>
-   <h4> I’m currently learning JavaScript, CSS3, HTML5, SQL AND RUBY.</h4>💻
+   <h4> I’m currently learning JavaScript, CSS3, HTML5, SQL AND RUBY. 💻</h4>
 
 
 ##
