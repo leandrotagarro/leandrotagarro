@@ -9,10 +9,7 @@
 
 
 ##
-<div>
-  <a href="https://github.com/leandrotagarro">
-   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=leandrotagarro&hide=contribs,prs&count_private=true&show_icons=true&theme=transparent><img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotagarro&langs_count=8)](https://github.com/leandrotagarro/github-readme-stats)>
-  </div>
+
   
   
 ##
