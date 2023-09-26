@@ -7,9 +7,6 @@
    <h4 align="center"> I’m currently learning JavaScript, CSS3, HTML5, SQL AND RUBY. 💻</h4>
 
 
-
-##
-
   
   
 ##
